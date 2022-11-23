@@ -1,1 +1,1 @@
-# python-javoblar
+# python-javoblarushbu reporisoryda python darslarini organaman
